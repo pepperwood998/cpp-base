@@ -1,0 +1,3 @@
+#define TestBase_VERSION_MAJOR @TestBase_VERSION_MAJOR@
+#define TestBase_VERSION_MINOR @TestBase_VERSION_MINOR@
+#cmakedefine USE_APP_MATH

@@ -1,0 +1,1 @@
+double appSqrt(double value);
